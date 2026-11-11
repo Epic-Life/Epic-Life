@@ -1,5 +1,5 @@
 <p>
-  <a href="https://komarev.com/ghpvc/?username=Epic-Life">
+  <a href="https://komarev.com/ghpvc/?username=Epic-Life&color=red">
     <img src="https://komarev.com/ghpvc/?username=Epic-Life&style=flat-square&label=Profile+Views" alt="Profile views" />
   </a>
 </p>
